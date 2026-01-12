@@ -4,7 +4,7 @@
 - 🔭 Currently: [Student]
 - 🌱 Currently studying at: Khanh An High school 
 
-## 📊 Statistics 
+## 📊 Statistic
 ![Github](https://github-readme-stats.vercel.app/api?username=TÊN-GITHUB-CỦA-BẠN&show_icons=true&theme=radical)
 
 ## 🛠️ Currently learning a programming language...
